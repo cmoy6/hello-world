@@ -6,4 +6,4 @@ Assignment for CSS 225
 * I enjoy video games, basketball, and reading
 * I currently work in a healthcare facility
 
-# I hope to learn a lot this course!
+**I hope to learn a lot this course!**
